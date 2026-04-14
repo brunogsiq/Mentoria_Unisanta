@@ -1,5 +1,49 @@
 # Mentoria_Unisanta
 
+Link do repositório:
+- https://github.com/brunogsiq/Mentoria_Unisanta.git
+
+Índice organizado por seção (cada seção tem arquivos numerados internamente):
+
+- [01 - Introdução à Tecnologia](01 - Introdução à Tecnologia/01.1 - introducao.md)
+- [02 - Estrutura de Time](02 - Estrutura de Time/02.1 - estrutura-time.md)
+- [03 - SDLC](03 - SDLC/03.1 - sdlc.md)
+- [04 - Metodologia Ágil](04 - Metodologia Ágil/04.1 - metodologia-agil.md)
+- [05 - Gerenciamento de Projetos](05 - Gerenciamento de Projetos/05.1 - gerenciamento-projetos.md)
+- [06 - Terminologias](06 - Terminologias/06.1 - terminologias.md)
+- [07 - Controle de Versão - Git](07 - Controle de Versão - Git/07.1 - git.md)
+- [08 - Ambiente de Desenvolvimento](08 - Ambiente de Desenvolvimento/08.1 - ambiente-desenvolvimento.md)
+- [09 - Frontend](09 - Frontend/09.1 - frontend.md)
+- [10 - Backend](10 - Backend/10.1 - backend.md)
+- [11 - Mobile](11 - Mobile/11.1 - mobile.md)
+- [12 - Arquitetura de Sistemas](12 - Arquitetura de Sistemas/12.1 - arquitetura.md)
+- [13 - APIs e Comunicação](13 - APIs e Comunicação/13.1 - apis-comunicacao.md)
+- [14 - Banco de Dados](14 - Banco de Dados/14.1 - banco-dados.md)
+- [15 - Ambientes](15 - Ambientes/15.1 - ambientes.md)
+- [16 - Testes de Software](16 - Testes de Software/16.1 - testes-software.md)
+- [17 - Tipos de Teste](17 - Tipos de Teste/17.1 - tipos-teste.md)
+- [18 - Níveis de Teste](18 - Níveis de Teste/18.1 - niveis-teste.md)
+- [19 - Automação de Testes](19 - Automação de Testes/19.1 - automacao-testes.md)
+- [20 - CI/CD](20 - CI-CD/20.1 - cicd.md)
+- [21 - Erros e Debug](21 - Erros e Debug/21.1 - erros-debug.md)
+- [22 - Segurança Básica](22 - Segurança Básica/22.1 - seguranca.md)
+- [23 - Qualidade de Código](23 - Qualidade de Código/23.1 - qualidade-codigo.md)
+- [24 - Observabilidade](24 - Observabilidade/24.1 - observabilidade.md)
+- [25 - Testes com IA](25 - Testes com IA/25.1 - testes-ia.md)
+- [26 - CX](26 - CX/26.1 - cx.md)
+- [27 - Fundamentos de Programação](27 - Fundamentos de Programação/27.1 - fundamentos-programacao.md)
+- [28 - Soft Skills](28 - Soft Skills/28.1 - soft-skills.md)
+- [29 - DevOps](29 - DevOps/29.1 - devops.md)
+- [30 - Produto e Carreira](30 - Produto e Carreira/30.1 - produto-carreira.md)
+
+Observações:
+- Os arquivos antigos foram renomeados para o padrão `NN.1 - <slug>.md` dentro de cada pasta.
+- Se quiser, posso criar arquivos adicionais com sufixos `NN.2`, `NN.3` para subtemas (ex.: MongoDB, NoSQL), ou ajustar os nomes dos arquivos.
+
+Próximo passo sugerido: indicar quais pastas devem receber arquivos adicionais (por exemplo, `14.2 - mongodb.md`) ou confirmar que eu crie placeholders para `NN.2` quando aplicável.
+
+# Mentoria_Unisanta
+
 1. Link repositório:
 - https://github.com/brunogsiq/Mentoria_Unisanta.git
 
@@ -10,391 +54,15 @@ Conceitos iniciais
 
 Aplicativos, sites e sistemas
 
-Diferença entre frontend, backend e banco de dados
 
-Como um sistema funciona de forma integrada
 
-
-Visão prática
-
-O usuário interage com a interface
-
-A interface envia uma requisição
-
-O backend processa a regra
-
-O banco armazena ou retorna dados
-
-O sistema responde ao usuário
-
-
-
----
-
-2. ESTRUTURA DE UM TIME DE TECNOLOGIA
-
-Principais papéis
-
-Backend
-
-Frontend
-
-Quality Assurance (QA)
-
-Product Owner (PO)
-
-Scrum Master
-
-
-Papéis complementares
-
-Tech Lead
-
-UX/UI Designer
-
-DevOps Engineer
-
-DBA (Banco de Dados)
-
-Segurança (AppSec)
-
-
-Organização do time
-
-Squad (time multidisciplinar responsável por uma parte do produto)
-
-
-
----
-
-3. CICLO DE VIDA DE DESENVOLVIMENTO (SDLC)
-
-SDLC (Software Development Life Cycle)
-
-Planejamento
-
-Análise de requisitos
-
-Desenvolvimento
-
-Testes
-
-Deploy
-
-Manutenção
-
-
-STLC (Software Testing Life Cycle)
-
-Análise de requisitos
-
-Planejamento de testes
-
-Criação de cenários
-
-Execução
-
-Reporte de bugs
-
-Encerramento
-
-
-
----
-
-
-
-
-
----
-
-5. GERENCIAMENTO DE PROJETOS
-
-Ferramentas
-
-Jira
-
-Azure DevOps
-
-Estrutura de trabalho
-
-Epic
-
-Feature
-
-User Story
-
-Task / Subtask
-
-
-Conceitos operacionais
-
-Capacity
-
-Prioridade
-
-Estimativa (Story Points)
-
-Velocity
-
-
-Definição de requisitos
-
-Regras de negócio
-
-Critérios de aceite
-
-
-
----
-
-6. TERMINOLOGIAS EM INGLÊS (USO NO DIA A DIA)
-
-Bug
-
-Issue
-
-Task
-
-Feature
-
-Release
-
-Deploy
-
-Build
-
-Commit
-
-Merge
-
-Pull Request (PR)
-
-Pipeline
-
-Environment (Dev, QA, Stage, Prod)
-
-Hotfix
-
-
-
----
-
-7. CONTROLE DE VERSÃO (GIT)
-
-Conceitos
-
-Repository
-
-Branch
-
-Commit
-
-Merge
-
-Pull Request
-
-
-Comandos essenciais
-
-git clone
-
-git pull
-
-git push
-
-git add
-
-git commit
-
-git checkout
-
-git merge
-
-
-Estratégias
-
-Git Flow
-
-Trunk Based Development
-
-
-
----
-
-8. AMBIENTE DE DESENVOLVIMENTO
-
-Ferramentas
-
-VS Code
-
-IntelliJ
-
-PyCharm
-
-Eclipse
-
-
-Conceitos
-
-Extension
-
-Library
-
-Dependency
-
-
-Gerenciadores de pacote
-
-npm
-
-pip
-
-maven
-
-
-
----
-
-9. FRONTEND (INTERFACE DO USUÁRIO)
-
-Tecnologias base
-
-HTML
-
-CSS
-
-JavaScript
-
-
-Frameworks
-
-React
-
-Angular
-
-Vue
-
-
-Responsabilidades
-
-Interface visual
-
-Experiência do usuário
-
-Integração com API
-
-
-
----
-
-10. BACKEND (LÓGICA DO SISTEMA)
-
-Linguagens
-
-Java
-
-JavaScript (Node.js)
-
-Python
-
-C# (.NET)
-
-PHP
-
-
-Responsabilidades
-
-Regras de negócio
-
-Processamento de dados
-
-Integração com banco
-
-APIs
-
-
-
----
-
-11. DESENVOLVIMENTO MOBILE
-
-Tecnologias
-
-Kotlin (Android)
-
-Swift (iOS)
-
-React Native
-
-Flutter
-
-
-Conceitos
-
-Apps nativos
-
-Apps híbridos
-
-
-
----
-
-12. ARQUITETURA DE SISTEMAS (VISÃO INICIANTE)
-
-Tipos
-
-Monolito
 
 Microsserviços
-
-
-Camadas
-
-Controller (entrada)
-
-Service (regra de negócio)
-
 Repository (acesso a dados)
-
-
-Fluxo de requisição
-
 Frontend → API → Service → Banco → Resposta
-
-
----
-
-13. BACKEND E COMUNICAÇÃO ENTRE SISTEMAS
-
-Conceitos
-
-CRUD
-
-API
-
 REST
-
-
-Métodos HTTP
-
-GET
-
-POST
-
-PUT
-
 DELETE
-
-
-Formato de dados
-
 JSON
-
-
-Status HTTP
-
-200 OK
 
 201 Created
 

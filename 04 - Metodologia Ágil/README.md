@@ -1,3 +1,7 @@
+# 04 - Metodologia Ágeis
+
+## README
+
 4. METODOLOGIA DE TRABALHO (SCRUM)
    
    4.1. 12 Princípios do scrum
@@ -40,9 +44,6 @@
     User storie ou História de usuário:
         Regra de negócio
         Critério de aceite
-            Como e o que deve ter na tela
-                123789 - Tela de login
-                200589 - Tela de cadastro
 
 Conceitos fundamentais
 
