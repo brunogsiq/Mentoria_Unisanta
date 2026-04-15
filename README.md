@@ -40,6 +40,8 @@ Observações:
 - Os arquivos antigos foram renomeados para o padrão `NN.1 - <slug>.md` dentro de cada pasta.
 - Se quiser, posso criar arquivos adicionais com sufixos `NN.2`, `NN.3` para subtemas (ex.: MongoDB, NoSQL), ou ajustar os nomes dos arquivos.
 
+- Atualizações recentes: adicionado `15.2 - tipos-ambientes.md` em `15 - Ambientes`.
+
 Próximo passo sugerido: indicar quais pastas devem receber arquivos adicionais (por exemplo, `14.2 - mongodb.md`) ou confirmar que eu crie placeholders para `NN.2` quando aplicável.
 
 # Mentoria_Unisanta
