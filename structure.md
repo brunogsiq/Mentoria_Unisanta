@@ -1,8 +1,3 @@
-# File Tree: Mentoria_Unisanta
-
-**Generated:** 14/04/2026, 15:32:45
-**Root Path:** `y:\GitHub\Bruno Siqueira\Mentoria_Unisanta`
-
 ```
 ├── 📁 01 - Introdução à Tecnologia
 │   ├── 📝 01.1 - introducao.md
